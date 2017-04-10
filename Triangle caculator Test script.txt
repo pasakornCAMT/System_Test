@@ -1,0 +1,8 @@
+Triangle calculate Test script
+Test script
+Input value in A text field.
+Input value in B text field.
+Input value in C text field.
+Click “is Triangle?” button to calculate.
+See the image that shown the type of triangel.
+Check the background of image.
