@@ -1,0 +1,6 @@
+Currency calculator Test script
+Test script
+1. Input the value that we want to test on the source currency text field 
+2. Select the source currency
+3. Select the target currency
+4. Click the calculate button
