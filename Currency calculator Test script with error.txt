@@ -1,0 +1,7 @@
+Currency calculator Test script (With error)
+Test script
+1. Click the Curruncy exchange with error
+2. Input the value that we want to test on the source currency text field 
+3. Select the source currency
+4. Select the target currency
+5. Click the calculate button
